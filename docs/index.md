@@ -26,10 +26,10 @@ The College Board has modified the exams for all AP classes to allow home testin
     - [Lesson 17: Building an App: Canvas Painter](https://studio.code.org/s/csp5-2019/stage/17/puzzle/1/)
   - Plan your time so that you're done by the end of April.
 * **Review your Explore Task**
-* **Attend the "AP CS Principles online reboot" on April 13th
-* **Attend the Create Task overview on April 15th
-* **Trial upload of your Create Task well before the 26th of May
-* **Finalize your submissions early on the 26th (or before)
+* **Attend the "AP CS Principles online reboot" on April 13th**
+* **Attend the Create Task overview on April 15th**
+* **Trial upload of your Create Task well before the 26th of May**
+* **Finalize your submissions early on the 26th (or before)**
   - Assume that you will have problems with technology and that the College Board website will be slow!
 
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
