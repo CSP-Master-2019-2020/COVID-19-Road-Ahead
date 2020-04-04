@@ -26,7 +26,7 @@ The College Board has modified the exams for all AP classes to allow home testin
     - [Lesson 17: Building an App: Canvas Painter](https://studio.code.org/s/csp5-2019/stage/17/puzzle/1/)
   - Plan your time so that you're done by the end of April.
 * **Review your Explore Task**
-  - View the [AP]() video
+  - View the AP [Explore Performance Task – Directions and Scoring Guidelines](https://youtu.be/aIask_Xm_ps) video.
   - I can't give you direct feedback on your Performance Tasks but your classmates can. Put together a small group of classmates and peer edit your Explore Tasks.
 * **Attend the "AP CS Principles online reboot" on April 13th**
 * **Attend the Create Task overview on April 15th**
