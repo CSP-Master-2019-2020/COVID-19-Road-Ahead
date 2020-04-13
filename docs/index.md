@@ -16,7 +16,7 @@ The College Board has modified the exams for all AP classes to allow home testin
 * **Practice upload of your Explore Task**
   - Log into your Digital Portfolio
   - Review the upload instructions
-  - Upload your artifact and written description
+  - Upload **a draft** of your artifact and written description – do **not** mark them final
 * **Complete Unit 5 on the Code.Org website**
   - The assessed lessons are the **Building an App** lessons:
     - [Lesson 3: Building an App: Multi-Screen App](https://studio.code.org/s/csp5-2019/stage/3/puzzle/1/)
