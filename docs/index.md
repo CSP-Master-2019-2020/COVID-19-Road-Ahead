@@ -24,13 +24,13 @@ The College Board has modified the exams for all AP classes to allow home testin
     - [Lesson 10: Building an App: Color Sleuth](https://studio.code.org/s/csp5-2019/stage/10/puzzle/1/)
     - [Lesson 14: Building an App: Image Scroller](https://studio.code.org/s/csp5-2019/stage/14/puzzle/1/)
     - [Lesson 17: Building an App: Canvas Painter](https://studio.code.org/s/csp5-2019/stage/17/puzzle/1/)
-  - Plan your time so that you're done by the end of April.
+  - Plan your time so that you're done by the end of April, the 27th would be ideal.
 * **Review your Explore Task**
   - View the AP [Explore Performance Task – Directions and Scoring Guidelines](https://youtu.be/aIask_Xm_ps) video.
   - I can't give you direct feedback on your Performance Tasks but your classmates can. Put together a small group of classmates and peer edit your Explore Tasks.
 * **Attend the "AP CS Principles online reboot" on April 13th**
-* **Attend the Create Task overview on April 15th**
-* **Trial upload of your Create Task well before the 26th of May**
+* **Attend the Create Task overview on April 27th**
+* **Do a trial upload of your Create Task well before the 26th of May**
 * **Finalize your submissions early on the 26th (or before)**
   - Assume that you will have problems with technology and that the College Board website will be slow!
 
